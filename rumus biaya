@@ -1,0 +1,4 @@
+//jumlah biaya sewa = lama sewa x biaya sewa per hari
+//jika kode PPN "Y" maka PNN nya sebesar 10% dari jumlah biaya sewa, jika "N" PPN nya 0.
+//biaya admin = persentase biaya admin x jumlah biaya sewa
+//total biaya = jumlah biaya sewa + biaya adm + PPN + biaya lain lain
